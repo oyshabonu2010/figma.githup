@@ -1,0 +1,423 @@
+.bir{
+  display: flex;
+}
+
+.ikki{
+  width: 111.17px;
+  height: 27.68px;
+  margin-top: 38.75px;
+  margin-left: 165.79px;
+  color: #13183f;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.bir>button{
+    width: 167px;
+    height: 50px;
+    margin-top: 24px;
+    margin-left: 890px;
+    border-radius: 28px;
+    border: none;
+    background-color: #13183f;
+}
+
+.uch{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0px;
+    color: #ffffff;
+    font-family: 'Plus Jakarta Sans', sans-serif;   
+}
+
+.besh{
+    width: 457px;
+    height: 359px;
+    margin-top: 252px;
+    margin-left: 165px;
+}
+
+.olti{
+    width: 550px;
+    height: 143px;
+    font-weight: 800;
+    margin-top: -110px;
+    font-size: 56px;
+    line-height: 100%;
+    letter-spacing:0px;
+    color: #13183f;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.yetti{
+    width: 420px;
+    height: 84px;
+    margin-top: -50px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #83869a;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.besh>button{
+    width: 167px;
+    height: 55px;
+    margin-top: 20px;
+    border-radius: 28px;
+    background: linear-gradient(#ff6f48, #f02aa6);
+    border: none;
+}
+
+.sakkiz{
+    width: 104px;
+    height: 28px;
+    margin-top: 16px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0px;
+    color: #ffffff;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.toqqiz{
+    width: 991.63px;
+    height: 936.92px;
+    margin-top: -600px;
+    margin-left: 800px;
+}
+
+.onikki{
+    width: 350px;
+    height: 320px;
+    border-radius: 15px;
+    background: linear-gradient(#ff6f48, #f02aa6);
+    margin-left: 170px;
+    margin-top: -100px;    
+}
+
+.onuch{
+    width: 250px;
+    height: 120px;
+    position: relative;
+    top: 50px;
+    margin-left: 32px;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: 0px;
+    color: #ffffff;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.h3{
+    width: 350px;
+    height: 320px;
+    margin-top: -320px;
+    margin-left: 560px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.gro{
+    margin-left: 20px;
+    position: relative;
+    top: -20px;
+}
+
+.ontort{
+    width: 121px;
+    height: 30px;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 0px;
+    letter-spacing: 0px;
+    color: #13183f;
+    margin-left: 25px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.onbesh{
+    width: 286px;
+    height: 112px;
+    margin-top: -25px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    margin-left: 25px;
+    color: #83869a;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.onolti{
+    width: 104px;
+    height: 28px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0px;
+    color: #f74780;
+    margin-left: 25px;
+    font-style: bold;
+    margin-top: -20px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.onyetti{
+    width: 350px;
+    height: 320px;
+    margin-top: -320px;
+    margin-left: 950px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.onsakkiz{
+    margin-left: 20px;
+    position: relative;
+    top: -20px;
+}
+
+.ontoqqiz{
+    width: 121px;
+    height: 30px;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 0px;
+    letter-spacing: 0px;
+    color: #13183f;
+    margin-left: 25px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.yigirma{
+    width: 270px;
+    height: 112px;
+    margin-top: -25px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    margin-left: 25px;
+    color: #83869a;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.yigirmabir{
+    width: 104px;
+    height: 28px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0px;
+    color: #f74780;
+    margin-left: 25px;
+    font-style: bold;
+    margin-top: -20px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.yigirmaikki{
+    width: 350px;
+    height: 320px;
+    margin-top: 60px;
+    margin-left: 170px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.yigirmauch{
+    margin-left: 20px;
+    position: relative;
+    top: -20px;   
+}
+
+.yigirmatort{
+    width: 121px;
+    height: 30px;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 0px;
+    letter-spacing: 0px;
+    color: #13183f;
+    margin-left: 25px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.yigirmabesh{
+    width: 270px;
+    height: 112px;
+    margin-top: -25px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    margin-left: 25px;
+    color: #83869a;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.yigirmaolti{
+    width: 104px;
+    height: 28px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0px;
+    color: #f74780;
+    margin-left: 25px;
+    font-style: bold;
+    margin-top: -20px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.yigirmayetti{
+    width: 350px;
+    height: 320px;
+    margin-top: -320px;
+    margin-left: 560px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.yigirmasakkiz{
+    margin-left: 20px;
+    position: relative;
+    top: -20px;   
+}
+
+.yigirmatoqqiz{
+    width: 121px;
+    height: 30px;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 0px;
+    letter-spacing: 0px;
+    color: #13183f;
+    margin-left: 25px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.ottiz{
+    width: 270px;
+    height: 112px;
+    margin-top: -25px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    margin-left: 25px;
+    color: #83869a;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.ottizbir{
+    width: 104px;
+    height: 28px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0px;
+    color: #f74780;
+    margin-left: 25px;
+    font-style: bold;
+    margin-top: -20px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.ottizikki{
+    width: 350px;
+    height: 320px;
+    margin-top: -320px;
+    margin-left: 950px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.ottizuch{
+    margin-left: 20px;
+    position: relative;
+    top: -20px;   
+}
+
+.ottiztort{
+    width: 121px;
+    height: 30px;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 0px;
+    letter-spacing: 0px;
+    color: #13183f;
+    margin-left: 25px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.ottizbesh{
+    width: 270px;
+    height: 112px;
+    margin-top: -25px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    margin-left: 25px;
+    color: #83869a;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.ottizolti{
+    width: 104px;
+    height: 28px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0px;
+    color: #f74780;
+    margin-left: 25px;
+    font-style: bold;
+    margin-top: -20px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.ottizyetti{
+    background-image: url(Rectangle\ \(1\).png);
+    margin-top: 130px;
+    width: 100%;
+    height: 120px;
+}
+
+.ottizsakkiz{
+    display: flex;
+}
+
+.ottiztoqqiz{
+    width: 111.17px;
+    height: 27.68px;
+    margin-top: 45px;
+    margin-left: 175px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 32px;
+    color: #ffffff;
+}
+
+.qirq{
+    width: 167px;
+    height: 56px;
+    margin-top: 35px;
+    margin-left: 860px;
+    background: linear-gradient(#4851FF, #F02AA6);
+    border: none;
+    border-radius: 28px;
+    color: #ffffff;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}

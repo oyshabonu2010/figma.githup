@@ -1,0 +1,20 @@
+div{
+    display: flex;
+}
+
+.bir{
+    list-style-type: none;
+    display: flex;
+}
+
+.ikki{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+button{
+    background-color: rgb(3, 254, 254);
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
+}

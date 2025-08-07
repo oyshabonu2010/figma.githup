@@ -1,0 +1,424 @@
+body{
+    background-color: #ecf2ff;
+}
+
+.bir{
+    margin-top: -100px;
+}
+
+.ikki{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+    width: 736px;
+    height: 512px;
+    margin-top: 284px;
+    margin-left: 352px;
+    background-color: #ffffff;
+    border-radius: 32px;
+}
+
+.uch{
+    width: 368px;
+    height: 512px;
+    margin-top: 0px;
+    margin-left:0px;
+    background: linear-gradient(180deg, #7755FF 0%, #6943FF 0.01%, #2F2CE9 100%);
+    border-radius: 32px;
+}
+
+.tort{
+    margin-top: 45px;
+    margin-left: 105px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 25px;
+    line-height: 100%;
+    color: #cac9ff;
+    letter-spacing: 0px;
+}
+
+.besh{
+    width: 200px;
+    height: 200px;
+    margin-top: -20px;
+    margin-left: 85px;
+    background: linear-gradient(180deg, #4D21C9 0%, rgba(37, 33, 201, 0) 100%, rgba(37, 33, 201, 0) 100%);
+    border-radius: 50%;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.olti{
+    width: 81px;
+    height: 72px;
+    margin-left: 55px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 800px;
+    font-size: 72px;
+    line-height: 72px;
+    color: #ffffff;
+    position: relative;
+    top: 50px;
+}
+
+.yetti{
+    height: 23px;
+    margin-left: 70px;
+    opacity: 51.68%;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 18px;
+    line-height: 100%;
+    color: #cac9ff;
+}
+
+.sakkiz{
+    width: 83px;
+    height: 42px;
+    margin-left: 140px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 32px;
+    line-height: 100%;
+    color: #ffffff;
+}
+
+.toqqiz{
+    width: 260px;
+    height: 69px;
+    margin-top: -15px;
+    margin-left: 60px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 400;
+    font-style: Medium;
+    font-size: 18px;
+    line-height: 23px;
+    color: #cac9ff;
+}
+
+.onbir{
+    width: 104px;
+    height: 31px;
+    margin-top: 35px;
+    margin-left: 10px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0px;
+    color: #303b59;
+}
+
+.onikki{
+    display: flex;
+    background-color: #fff6f6;
+    border-radius: 12px;
+    position: relative;
+    width: 300px;
+    left: 20px;
+}
+
+.vector{
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left:  0px;
+    border: 1.25px;
+}
+
+.onuch{
+    width: 71px;
+    height: 23px;
+    margin-left: 20px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 600;
+    font-style: Medium;
+    font-size: 18px;
+    color: #ff5555;
+}
+
+.ontort{
+    width: 21px;
+    height: 23px;
+    margin-top: 20px;
+    position: relative;
+    left: 100px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 18px;
+    color: #303b59;
+}
+
+.onbesh{
+   width: 43px;
+   height: 23px;
+   position: relative;
+   left: 106px;
+   top: 2px;
+   opacity: 50%;
+   font-family: 'Hanken Grotesk', sans-serif;
+   font-weight: 700;
+   font-style: bold;
+   font-size: 18px;
+   color: #303b59;
+}
+
+.onolti{
+    width: 43px;
+    height: 23px;
+    position: relative;
+    left: 70px;
+    top: 2px;
+    opacity: 50%;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 18px;
+    color: #303b59;
+    letter-spacing: 0px;
+}
+
+.onyetti{
+    display: flex;
+    background-color: #fffbf4;
+    border-radius: 12px;
+    position: relative;
+    width: 300px;
+    left: 20px;
+    margin-top: 15px;
+}
+
+.icon{
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left:  0px;
+    border: 1.25px;
+}
+
+.onsakkiz{
+    width: 71px;
+    height: 23px;
+    margin-left: 20px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 600;
+    font-style: Medium;
+    font-size: 18px;
+    color: #ffb21e;
+}
+
+.ontoqqiz{
+     width: 21px;
+    height: 23px;
+    margin-top: 20px;
+    position: relative;
+    left: 100px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 18px;
+    color: #303b59;
+}
+
+.yigirma{
+    width: 43px;
+   height: 23px;
+   position: relative;
+   left: 106px;
+   top: 2px;
+   opacity: 50%;
+   font-family: 'Hanken Grotesk', sans-serif;
+   font-weight: 700;
+   font-style: bold;
+   font-size: 18px;
+   color: #303b59;
+}
+
+.yigirmabir{
+    width: 43px;
+    height: 23px;
+    position: relative;
+    left: 70px;
+    top: 2px;
+    opacity: 50%;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 18px;
+    color: #303b59;
+    letter-spacing: 0px;
+}
+
+.yigirmaikki{
+    display: flex;
+    background-color: #f2fcf9;
+    border-radius: 12px;
+    position: relative;
+    width: 300px;
+    left: 20px;
+    margin-top: 15px;
+}
+
+.iconn{
+  width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left:  0px;
+    border: 1.25px;  
+}
+
+.yigirmauch{
+   width: 71px;
+    height: 23px;
+    margin-left: 20px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 600;
+    font-style: Medium;
+    font-size: 18px; 
+    color: #00bb8f;
+}
+
+.yigirmatort{
+   width: 21px;
+    height: 23px;
+    margin-top: 20px;
+    position: relative;
+    left: 100px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 18px;
+    color: #303b59;  
+}
+
+.yigirmabesh{
+    width: 43px;
+   height: 23px;
+   position: relative;
+   left: 106px;
+   top: 2px;
+   opacity: 50%;
+   font-family: 'Hanken Grotesk', sans-serif;
+   font-weight: 700;
+   font-style: bold;
+   font-size: 18px;
+   color: #303b59;  
+}
+
+.yigirmaolti{
+    width: 43px;
+    height: 23px;
+    position: relative;
+    left: 70px;
+    top: 2px;
+    opacity: 50%;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 18px;
+    color: #303b59;
+    letter-spacing: 0px;
+
+}
+
+.yigirmayetti{
+    display: flex;
+    background-color: #f2fcf9;
+    border-radius: 12px;
+    position: relative;
+    width: 300px;
+    left: 20px;
+    margin-top: 15px;
+}
+
+.iconnn{
+  width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left:  0px;
+    border: 1.25px;  
+}
+
+.yigirmasakkiz{
+   width: 71px;
+    height: 23px;
+    margin-left: 20px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 600;
+    font-style: Medium;
+    font-size: 18px; 
+    color: #1125d6;
+}
+
+.yigirmatoqqiz{
+   width: 21px;
+    height: 23px;
+    margin-top: 20px;
+    position: relative;
+    left: 100px;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 18px;
+    color: #303b59;  
+}
+
+.ottiz{
+    width: 43px;
+   height: 23px;
+   position: relative;
+   left: 106px;
+   top: 2px;
+   opacity: 50%;
+   font-family: 'Hanken Grotesk', sans-serif;
+   font-weight: 700;
+   font-style: bold;
+   font-size: 18px;
+   color: #303b59;  
+}
+
+.ottizbir{
+    width: 43px;
+    height: 23px;
+    position: relative;
+    left: 70px;
+    top: 2px;
+    opacity: 50%;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 18px;
+    color: #303b59;
+    letter-spacing: 0px;
+}
+
+button{
+    width: 288px;
+    height: 56px;
+    border-radius: 128px;
+    background-color: #303b59;
+    border: none;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.ottizikki{
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 18px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.ottizikki:hover{
+    background: linear-gradient(180deg, #7755FF 0%, #6943FF 0.01%, #2F2CE9 100%);
+}
+
+
+
