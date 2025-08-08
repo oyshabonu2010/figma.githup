@@ -19,6 +19,11 @@
     border-radius: 28px;
     border: none;
     background-color: #13183f;
+    cursor: pointer;
+}
+
+.bir>button :hover{
+    background-color: red;
 }
 
 .uch{
